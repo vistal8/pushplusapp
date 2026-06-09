@@ -1,7 +1,0 @@
-local.pushplus.history.app-pngs-0 N:\ai\hermes1\app\code\pushplus-android-app\app\build\generated\res\pngs\debug
-local.pushplus.history.app-resValues-1 N:\ai\hermes1\app\code\pushplus-android-app\app\build\generated\res\resValues\debug
-local.pushplus.history.app-packageDebugResources-2 N:\ai\hermes1\app\code\pushplus-android-app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-local.pushplus.history.app-packageDebugResources-3 N:\ai\hermes1\app\code\pushplus-android-app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-local.pushplus.history.app-debug-4 N:\ai\hermes1\app\code\pushplus-android-app\app\build\intermediates\merged_res\debug\mergeDebugResources
-local.pushplus.history.app-debug-5 N:\ai\hermes1\app\code\pushplus-android-app\app\src\debug\res
-local.pushplus.history.app-main-6 N:\ai\hermes1\app\code\pushplus-android-app\app\src\main\res
