@@ -1,0 +1,2 @@
+N:/ai/hermes1/app/code/pushplus-android-app/app/src/main/java/local/pushplus/history/MainActivity.java
+N:/ai/hermes1/app/code/pushplus-android-app/manual-build/gen/local/pushplus/history/R.java
