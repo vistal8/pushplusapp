@@ -86,6 +86,6 @@ Debug APK 位于: `manual-build/PushPlusHistory-debug.apk`
 
 ## ⚠️ 注意事项 / Notes
 
-- **IP 白名单**: PushPlus OpenAPI 的 IP 白名单限制仍然适用。如果手机网络 IP 未在 PushPlus 后台授权，获取 `accessKey` 将会失败（报错 IP 授权错误）。
+- **IP 白名单**: PushPlus IP 白名单需要关闭或者需要你手动添加白名单！
 - **内容限制**: App 目前仅存储 `message/list` 返回的列表数据；暂未实现抓取 `/shortMessage/{shortCode}` 的 HTML 详情内容。
 - **编码说明**: 为避免手动构建时的编码问题，部分 UI 文本目前使用 ASCII 英文。
