@@ -1,4 +1,4 @@
-注意：这是非官方的pushplusapp！！！！！
+注意：这是非官方的pushplusapp！！！！！</br>
 这是一个原生 Android 应用，旨在将 PushPlus OpenAPI 的历史消息同步到本地 SQLite 数据库中，提供更便捷的查询、搜索和备份功能。我更愿意称它为 `pushplushistory`。
 
 A native Android app for syncing PushPlus OpenAPI message history into a local SQLite database.
