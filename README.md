@@ -90,5 +90,5 @@ Debug APK 位于: `manual-build/PushPlusHistory-debug.apk`
 - **IP 白名单**: PushPlus IP 白名单需要关闭或者需要你手动添加白名单！
 - **内容限制**: App 目前仅存储 `message/list` 返回的列表数据；暂未实现抓取 `/shortMessage/{shortCode}` 的 HTML 详情内容。
 - **编码说明**: 为避免手动构建时的编码问题，部分 UI 文本目前使用 ASCII 英文。
-  ## 界面预览!<img width="285" height="543" alt="e7597547-d03b-4ec0-b140-4d258cc5c6a3" src="https://github.com/user-attachments/assets/fe6424ef-0632-4803-b92b-df165f77114b" /></br><img width="305" height="651" alt="579cbfd1-d177-4d46-882b-264f75f81cd2" src="https://github.com/user-attachments/assets/59c2c866-c617-4d5b-9b49-970a266b0142" />
+  ## 界面预览!</br><img width="285" height="543" alt="e7597547-d03b-4ec0-b140-4d258cc5c6a3" src="https://github.com/user-attachments/assets/fe6424ef-0632-4803-b92b-df165f77114b" /></br><img width="305" height="651" alt="579cbfd1-d177-4d46-882b-264f75f81cd2" src="https://github.com/user-attachments/assets/59c2c866-c617-4d5b-9b49-970a266b0142" />
 
